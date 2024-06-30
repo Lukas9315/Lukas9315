@@ -17,29 +17,30 @@ I'm a **Senior Frontend Developer** with over 9 years of professional experience
 
 ### Senior Frontend Developer
 **Instapage** (2019 - Present)
-- Upstream integrations (Google Ads, Facebook Ads, Facebook Pixel) - UI lifting, connection modules, bux fixing. Analytics - dashboard panel support. AdMap - developing from scratch the tool dedicated for key clients to allow them working with their ad campains in more efficient way.
-Internal app to serve clients; Client Qualification module (creating parameters based on bussiness data used to qualify clients), Prioritization module (developing parameters based on ad network data).
-
-- Design System leadership; UI Kit creation and support. Taking part in internal Hackaton and Design Sprint, preparing documents for team meetings and enjoy working in Scrum. 
-
-- The technological stack used is: Angular (versions 4 - 16) with NgRx and Nx.
+- Led upstream integrations (Google Ads, Facebook Ads) and analytics dashboard support.
+- Developed AdMap from scratch for key clients to improve ad campaign management.
+- Led design system initiatives, created and maintained UI Kits.
+- Participated in internal hackathons and design sprints.
+- Tech stack: Angular (4-16), NgRx, Nx.
 
 ### Frontend Developer
 **TO REFORGE** (2018 - 2019)
-- Developing Web CMS panel for external client as well as internal interface with React ecosystem.
+- Developed Web CMS panels for external and internal clients using the React ecosystem.
 
 ### Frontend Developer
 **DECSOFT** (2017 - 2018)
-- Developing interactive mockups used to demonstrate project features during the public tender procedure for Patent Office (the company won the tender).
-
-- Developing applications using Angular 4 for both Web and mobile devices. Working within Waterfall approach.
+- Created interactive mockups for project demonstrations, aiding in winning public tenders.
+- Developed web and mobile applications using Angular 4.
 
 ### UI Developer
 **ZPR MEDIA** (2015 - 2017)
-- Supporting Websites, creating mailing templates and landing pages for such brands as Murator.pl, Urządzamy.pl, PoradnikZdrowie.pl, Beszamel.pl using HTML5 and CSS3 (including preprocessor Less). Start working with Javascript (jQuery) within Agile framework. Web templates standarization and optimization.
+- Supported websites, created mailing templates and landing pages for major brands.
+- Worked with HTML5, CSS3 (Less), and JavaScript (jQuery) within an Agile framework.
 
-### DIGI ONLINE (2015 - 2018) [OWNER]
-- Experimental self procject of Web browser game. Full stack development as well as UX/UI design. That was the way to move my skills to the next level using technologies such as HTML, CSS (SASS), React, Redux.
+### Owner & Full-Stack Developer
+**DIGI ONLINE** (2015 - 2018)
+- Developed a web browser game as a self-project, handling full-stack development and UX/UI design.
+- Used HTML, CSS (SASS), React, Redux.
 
 ## 📚 Continuous Learning
 
