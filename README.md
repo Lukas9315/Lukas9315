@@ -6,11 +6,11 @@ I'm a **Senior Frontend Developer** with over 9 years of professional experience
 
 ## 🛠️ Technologies & Tools
 
-- **Frontend:** React, Angular, HTML, CSS, JavaScript, TypeScript
-- **State Management:** Redux, NgRx
-- **Build Tools:** Webpack, Babel
-- **Testing:** Jest, Jasmine, Karma
-- **CI/CD:** GitHub Actions, Travis CI, Jenkins
+- **Frontend:** React, Angular, HTML, CSS, JavaScript, TypeScript, RxJS
+- **State Management:** Redux, NgRx, React-Query
+- **Build Tools:** Webpack, Vite
+- **Testing:** Jest, Karma
+- **CI/CD:** GitHub Actions
 - **Additional Expertise:** Nx for monorepo management
 
 ## 🚀 Professional Experience
