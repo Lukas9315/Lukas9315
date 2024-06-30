@@ -47,4 +47,4 @@ I'm a **Senior Frontend Developer** with over 9 years of professional experience
 I am a strong advocate of continuous learning and improvement. I regularly attend tech meetups, follow the latest trends in web development, and contribute to open-source projects. My current focus is on mastering advanced TypeScript features and exploring new frontend technologies.
 
 ---
-*"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+*"I like RxJS if I don't have to debug code for 4 hours."*
